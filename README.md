@@ -1,3 +1,7 @@
+# My Neovim Config
+
+This is built upon kickstart (see below)
+
 # kickstart.nvim
 
 ## Introduction
